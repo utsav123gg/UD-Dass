@@ -1,0 +1,8 @@
+java
+document.querySelector('.login').addEventListener('click', function() {
+    alert('Login button clicked');
+});
+
+document.querySelector('.signup').addEventListener('click', function() {
+    alert('Sign Up button clicked');
+});
