@@ -1,0 +1,10 @@
+Contact Form
+<form action="https://formspree.io/f/{your-form-id}" method="POST">
+    <input type="email" name="email" placeholder="Your Email" required>
+    <textarea name="message" placeholder="Your Message"></textarea>
+    <button type="submit">Send</button>
+</form>
+SEO
+<meta name="description" content="This is my awesome professional website">
+<meta name="keywords" content="HTML, CSS, JavaScript, GitHub Pages">
+<meta name="author" content="Your Name">
